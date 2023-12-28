@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+stock_picking_email_user_access,stock.picking.email.user.access,model_stock_picking_email_note_wizard,stock_picking_email.stock_picking_email_group_user,1,1,1,1

@@ -9,7 +9,9 @@
     'category': 'Inventory/Inventory',
     'data': [
         'views/stock_picking.xml',
-        'wizard/send_note_picking_view.xml'
+        'wizard/send_note_picking_view.xml',
+        'security/stock_picking_email_groups.xml',
+        'security/ir.model.access.csv'
     ],
     'installable': True,
     'application': True,

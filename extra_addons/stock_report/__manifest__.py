@@ -9,6 +9,8 @@
     'category': 'Inventory/Inventory',
     'data': [
         'stock_report.xml',
+        'security/stock_report_groups.xml',
+        'security/ir.model.access.csv'
     ],
     'installable': True,
     'application': True,
