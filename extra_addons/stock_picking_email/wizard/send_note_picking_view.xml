@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+    <data>
+        <record id="note_wizard_view_form" model="ir.ui.view">
+            <field name="name">note.wizard.view.form</field>
+            <field name="model">stock_picking_email.note_wizard</field>
+            <field name="arch" type="xml">
+                <form>
+                    <group>
+                        <field name="note" />
+                        <field name="file" filename="filename"/>
+                        <field name="filename" invisible="1"/>
+                    </group>
+                    <footer>
+                        <button name="send_email" string="Send" type="object" class="oe_highlight"/>
+                        <button string="Cancel" class="btn-secondary" special="cancel"/>
+                    </footer>
+                </form>
+            </field>
+        </record>    
+    </data>
+</odoo>
