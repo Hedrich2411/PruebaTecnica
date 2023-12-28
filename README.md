@@ -4,7 +4,7 @@
 
 Odoo V16
 
-No olvide agregar a los grupos de Stock Report User y Stock Picking Email User para poder visualizar la pregunta 1 y 5.
+No olvide agregarse a los grupos de Stock Report User y Stock Picking Email User para poder visualizar la pregunta 1 y 5.
 
 ## Pregunta 1
 
