@@ -1,5 +1,11 @@
 # PruebaTecnica
 
+## Nota
+
+Odoo V16
+
+No olvide agregar a los grupos de Stock Report User y Stock Picking Email User para poder visualizar la pregunta 1 y 5.
+
 ## Pregunta 1
 
 Crear una funcionalidad que agregue un botón al formulario principal del modelo stock.picking, al hacer click en el botón, se debe abrir un wizard que solicite la siguiente información:
